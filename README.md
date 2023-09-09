@@ -9,7 +9,8 @@
 
 ![Screenshot (6)](https://github.com/MuddamPoojithaa/jenkinstriggers/assets/127126687/d853b998-c2c7-4cc3-b12a-fdb8a071a9dc)
 
-![Screenshot (7)](https://github.com/MuddamPoojithaa/jenkinstriggers/assets/127126687/6ad86819-3b77-4470-87c4-c9268883e6cb)
+![Screenshot (8)](https://github.com/MuddamPoojithaa/jenkinstriggers/assets/127126687/e946fa30-81ed-44e2-ae0f-2fe991e05961)
+
 
 
 
