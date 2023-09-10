@@ -5,14 +5,12 @@
 # Schedule Jobs
 # Remote Triggers
 # Build after other projects are bulid
-![Screenshot (4)](https://github.com/MuddamPoojithaa/jenkinstriggers/assets/127126687/17d66976-6183-49b8-9b23-38275cda0384)
 
-![Screenshot (6)](https://github.com/MuddamPoojithaa/jenkinstriggers/assets/127126687/d853b998-c2c7-4cc3-b12a-fdb8a071a9dc)
+![image](https://github.com/MuddamPoojithaa/jenkinstriggers/assets/127126687/34533f64-b6f6-4379-acc6-cf3207a06bac)
 
-![Screenshot (8)](https://github.com/MuddamPoojithaa/jenkinstriggers/assets/127126687/e946fa30-81ed-44e2-ae0f-2fe991e05961)
+![image](https://github.com/MuddamPoojithaa/jenkinstriggers/assets/127126687/28035f88-05c9-4ea7-997d-a35d6c2716b5)
 
-
-
+![image](https://github.com/MuddamPoojithaa/jenkinstriggers/assets/127126687/ae39c043-556a-46d3-b665-d8ddbe9d45be)
 
 
 
