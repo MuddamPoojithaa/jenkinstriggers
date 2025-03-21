@@ -1,10 +1,10 @@
 # jenkinstriggers
-# Created a jenkins job to access Jenkinsfile frm gitrepo
-# Git Webhook
-# Poll SCM
-# Schedule Jobs
-# Remote Triggers
-# Build after other projects are bulid
+ Created a jenkins job to access Jenkinsfile frm gitrepo
+ Git Webhook
+ Poll SCM
+ Schedule Jobs
+Remote Triggers
+ Build after other projects are bulid
 
 ![image](https://github.com/MuddamPoojithaa/jenkinstriggers/assets/127126687/34533f64-b6f6-4379-acc6-cf3207a06bac)
 
